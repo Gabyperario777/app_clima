@@ -1,1 +1,1 @@
-Aplicativo de clima.
+Aplicativo de clima
